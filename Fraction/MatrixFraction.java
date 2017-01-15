@@ -1,5 +1,4 @@
 package Fraction;
-
 public class MatrixFraction 
 {
 	private Fraction [][] matrixFrac;
